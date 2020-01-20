@@ -1,0 +1,5 @@
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/
+https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c
+
+https://www.youtube.com/watch?v=7f787SsgknA
+https://www.youtube.com/watch?v=PNa9OMajw9w

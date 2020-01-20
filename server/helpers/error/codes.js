@@ -1,0 +1,18 @@
+module.exports = {
+  DEFAULT_CODE            : 1000,
+  NOT_VALID_BODY          : 1001,
+  NOT_VALID_QUERY         : 1002,
+  NOT_VALID_PARAMETER     : 1003,
+  INCORRECT_ROUTE         : 1004,
+  NOTHING_TO_UPDATE       : 1006,
+  ALREADY_EXISTS          : 1011,
+  NOT_VALID_HEADER        : 1021,
+  CAN_NOT_UPDATE          : 1033,
+  OBJECT_NOT_FOUND        : 1040,
+  USER_NOT_CONFIRMED      : 1042,
+  USER_BLOCKED            : 1043,
+  NEED_REFRESH_TOKEN      : 1088,
+  USER_CAN_NOT_BE_THE_SAME: 1100,
+  MEMBERSHIP_ENDED        : 1301,
+  FREE_MEMBERS_ENDED      : 1302,
+};

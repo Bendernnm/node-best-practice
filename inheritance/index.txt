@@ -1,0 +1,3 @@
+todo:
+1) prototype chains - show
+2) check functions and classes (prototype chains)
